@@ -36,7 +36,7 @@
     "@radix-ui/react-tooltip": "^1.0.7",
     "@upstash/ratelimit": "^0.4.4",
     "@vercel/kv": "^1.0.0",
-    "ai": "^2.2.25",
+    "ai": "^2.2.27",
     "apify": "^3.1.13",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
